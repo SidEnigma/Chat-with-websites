@@ -6,9 +6,9 @@ Retrieval Augmented Generation to chat with any website using:
 - Streamlit
 
 ## Features
-- *Interaction:* Utilizing LangChain's latest version to engage with websites, facilitating information extraction from diverse online sources.
-- *Integration:* Compatible with models including GPT-4, Mistral, Llama2, and ollama. Currently employing GPT-4.
-- *Streamlit GUI:* Neat, user-friendly interface developed using Streamlit.
+- **Interaction:** Utilizing LangChain's latest version to engage with websites, facilitating information extraction from diverse online sources.
+- **Integration:** Compatible with models including GPT-4, Mistral, Llama2, and ollama. Currently employing GPT-4.
+- **Streamlit GUI:** Neat, user-friendly interface developed using Streamlit.
 
 ## GUI Snapshot
 ![UI (Chat-with-websites)](https://github.com/SidEnigma/Chat-with-websites/assets/19359983/619b62c2-c971-4fe2-80bd-cfd77711ca81)
