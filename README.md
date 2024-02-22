@@ -15,4 +15,5 @@ Retrieval Augmented Generation to chat with any website using:
 
 ## Typical Retrieval Step for RAG
 RAG is an acronym denoting Retrieval-Augmented Generation and operates on the principle of enhancing the knowledge base of an LLM by integrating additional information provided within the prompt and chat history. This augmentation process involves vectorizing the textual data, subsequently identifying the most closely similar text segments to the given prompt within the vectorized corpus. These selected segments are then utilized as prefixes for the LLM, thereby enriching its contextual understanding and potentially improving the quality of generated responses.
+
 ![retrieval_step](https://github.com/SidEnigma/Chat-with-websites/assets/19359983/d2a35d15-e292-45d0-a5a0-010a9090df4f)
